@@ -104,7 +104,7 @@
     "react-storybook-addon-chapters": "^1.1.0",
     "resolve": "^1.4.0",
     "rimraf": "^3.0.1",
-    "semver": "^5.4.1",
+    "semver": "^7.1.2",
     "shebang-loader": "0.0.1",
     "sinon": "^3.2.0",
     "sinon-chai": "^2.11.0",
