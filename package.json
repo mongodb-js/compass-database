@@ -39,7 +39,7 @@
     "react-dom": "^16.8.0"
   },
   "devDependencies": {
-    "@storybook/react": "^3.2.0",
+    "@storybook/react": "^6.0.25",
     "autoprefixer": "^9.4.6",
     "babel-cli": "^6.10.1",
     "babel-core": "^6.24.1",
